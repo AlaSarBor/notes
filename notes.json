@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Privet!",
+    "body": "Privetiki ludi!",
+    "timestamp": "2024-02-25T18:23:57.196821"
+  },
+  {
+    "id": 2,
+    "title": "Hello!",
+    "body": "Hello, World!",
+    "timestamp": "2024-02-25T18:24:29.152177"
+  }
+]
